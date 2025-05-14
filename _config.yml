@@ -1,8 +1,8 @@
 # Site settings
-title: PHOTORAMA
+title: PhotoStory
 email: ""
-description: "Photo Journal"
-url: "https://bodyabartos.github.io"
+description: "My way of practice and art space. Ukraine, Kyiv. Wartime"
+url: "https://boqkiu.github.io"
 baseurl: "/caodao"
 facebook_username: ""
 twitter_username: ""
@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://bodyabartos.github.io/caodao/gallery/"  
-  - JOURNAL: "https://bodyabartos.github.io/caodao/journal/"
-  - ABOUT: "https://bodyabartos.github.io/caodao/about/"
+  - GALLERY: "https://boqkiu.github.io/caodao/gallery/"  
+  - JOURNAL: "https://boqkiu.github.io/caodao/journal/"
+  - ABOUT: "https://boqkiu.github.io/caodao/about/"
 
 # All translation keys
 translations:
